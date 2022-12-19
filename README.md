@@ -5,6 +5,8 @@ I'm teqhs i am a Java developer with quite the few projects behind my back, many
 - Teqhs Base (A base for a Minecraft client, up on my github profile!)
 - A few more of less importance.
 
+I am looking into other languages which seem enjoyable to learn and will let me expand the capabilities of what i can do. I also am looking into more projects to upload onto my github profile and make it bigger and better!
+
 # More information
 My discord: teqhs#5968
 My clients discord: discord.gg/zkVxS4TXC4
