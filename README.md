@@ -1,11 +1,11 @@
-#Hello!
+# Hello!
 
 I'm teqhs i am a Java developer with quite the few projects behind my back, many of those being Minecraft related! Some of these are:
 - Vertigo (A Minecraft client)
 - Teqhs Base (A base for a Minecraft client, up on my github profile!)
 - A few more of less importance.
 
-#More information
+# More information
 My discord: teqhs#5968
 My clients discord: discord.gg/zkVxS4TXC4
 My youtube: https://www.youtube.com/channel/UCxw-LBr-FYSrB_I9iPDcOQg
