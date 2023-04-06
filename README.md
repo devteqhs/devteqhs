@@ -1,5 +1,5 @@
 # Hello!
-- My discord: teqhs#5968
+- My discord: teqhs#3688
 - My clients discord: discord.gg/zkVxS4TXC4
 - My youtube: https://www.youtube.com/channel/UCxw-LBr-FYSrB_I9iPDcOQg
 
